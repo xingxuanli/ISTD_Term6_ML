@@ -1,2 +1,2 @@
 # ISTD_Term6_ML
-Machine Learning &amp; Deep learning &amp; Natural Language Processing
+Includes code for term 6 machine learning course. Machine Learning, Deep Learning and Natural Language Processing.
